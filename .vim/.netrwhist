@@ -1,0 +1,3 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/home/cov-126/Personal/Courses/algos/2/fibonacci_last_digit'
